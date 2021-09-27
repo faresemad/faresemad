@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I love to draw, coding and teach people
 ## Connect with me:
 - <a href="https://www.facebook.com/faresemadx/" target="_blank">Facebook</a>
-- <a href="https://www.facebook.com/faresemadx/" target="_blank"><img src="https://image.similarpng.com/very-thumbnail/2020/04/Popular-Logo-facebook-icon-png.png" alt="Italian Trulli"></a>
+- <a href="https://www.facebook.com/faresemadx/" target="_blank"><img src="https://image.similarpng.com/very-thumbnail/2020/04/Popular-Logo-facebook-icon-png.png" alt="Italian Trulli" style="width:100px;height:100px;"></a>
