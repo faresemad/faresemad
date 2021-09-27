@@ -7,6 +7,8 @@
 - 😄 2021 Goals: Contribute more to Open Source projects & Master Data Science
 - ⚡ Fun fact: I love to draw, coding and teach people
 ## Connect with me:
-<a href="https://www.facebook.com/faresemadx/" target="_blank"><img src="https://www.iconsdb.com/icons/preview/black/facebook-4-xxl.png" alt="Facebook" style="width:50px;height:50px;"></a>
-<a href="https://www.twitter.com/faresemadx/" target="_blank"><img src="https://www.iconsdb.com/icons/preview/black/twitter-4-xxl.png" alt="Twitter" style="width:50px;height:50px;"></a>
-<a href="https://www.linkedin.com/in/faresemad/?fbclid=IwAR0zZV6qjB5IObHkP6eZ32fFUhxbqQ6D9DkMBdeKFo9VLgrjG22W02At_cs" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="Linked In" style="width:50px;height:50px;"></a>
+<a href="https://www.facebook.com/faresemadx/" target="_blank"><img src="https://www.iconsdb.com/icons/preview/blue/facebook-3-xxl.png" alt="Facebook" style="width:35px;height:35px;"></a>
+<a href="https://www.twitter.com/faresemadx/" target="_blank"><img src="https://www.iconsdb.com/icons/preview/blue/twitter-3-xxl.png" alt="Twitter" style="width:35px;height:35px;"></a>
+<a href="https://www.linkedin.com/in/faresemad/?fbclid=IwAR0zZV6qjB5IObHkP6eZ32fFUhxbqQ6D9DkMBdeKFo9VLgrjG22W02At_cs" target="_blank"><img src="https://www.iconsdb.com/icons/preview/blue/linkedin-3-xxl.png" alt="Linked In" style="width:35px;height:35px;"></a>
+<a href="https://www.instagram.com/farresemadd/" target="_blank"><img src="https://www.iconsdb.com/icons/preview/blue/instagram-xxl.png" alt="Instagram" style="width:35px;height:35px;"></a>
+<a href="https://www.youtube.com/channel/UCjxhgkcd2FCV5NR1xEdLcRw" target="_blank"><img src="https://www.iconsdb.com/icons/preview/blue/youtube-2-xxl.png" alt="Youtube" style="width:35px;height:35px;"></a>
