@@ -1,8 +1,6 @@
 ### Hi there 👋, My Name's Fares Emad
-#### I'm a Python Developer
-![I'm a Python Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-“Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”
 
 Skills: Python / C# / JS / HTML / CSS / NodeJs
 
@@ -18,8 +16,6 @@ Skills: Python / C# / JS / HTML / CSS / NodeJs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faresemad)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faresemad&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faresemad)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faresemad)  
 
