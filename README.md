@@ -2,7 +2,8 @@
 ![alt text](https://github.com/faresemad/faresemad/blob/main/carbon%20(1).png)
 
 
-Skills: Python / C# / JS / HTML / CSS / NodeJs
+### Skills:
+## Python / C# / JS / HTML / CSS / NodeJs
 
 - 🔭 I’m currently working on this page. 
 
