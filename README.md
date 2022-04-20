@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name's Fares Emad
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![alt text](https://github.com/faresemad/faresemad/blob/main/carbon%20(1).png)
 
 
 Skills: Python / C# / JS / HTML / CSS / NodeJs
