@@ -19,18 +19,18 @@
 <hr>
 
 ### 👨‍Account statistics & Streak Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=faresemad&theme=dark&show_icons=true&count_private=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faresemad&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=faresemad&theme=slateorange&show_icons=true&count_private=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faresemad&theme=slateorange)  
 
 <hr>
 
 ### 🏆 Github trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=faresemad&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=faresemad&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr> 
 
 ### 🤖Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faresemad&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faresemad&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
