@@ -1,5 +1,3 @@
-<h2 align="center">Hi there 👋, My Name's Fares Emad</h2>
-
 ![alt text](https://github.com/faresemad/faresemad/blob/main/carbon%20(1).png)
 ![Profile views](https://gpvc.arturio.dev/faresemad)
 [![Repos Badge](https://badges.pufler.dev/repos/faresemad)](https://badges.pufler.dev)
