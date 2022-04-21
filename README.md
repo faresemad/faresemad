@@ -1,11 +1,10 @@
-![Profile views](https://gpvc.arturio.dev/faresemad)
-[![Repos Badge](https://badges.pufler.dev/repos/faresemad)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/faresemad)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/faresemad)](https://badges.pufler.dev)
 <h2 align="center">Hi there 👋, My Name's Fares Emad</h2>
 
 ![alt text](https://github.com/faresemad/faresemad/blob/main/carbon%20(1).png)
-
+![Profile views](https://gpvc.arturio.dev/faresemad)
+[![Repos Badge](https://badges.pufler.dev/repos/faresemad)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/faresemad)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/faresemad)](https://badges.pufler.dev) 
 <hr>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">Skills & Tools:
@@ -18,8 +17,12 @@
 
 <hr>
 
-### 👨‍Account statistics & Streak Stats:
+### ⚠️Account statistics:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faresemad&theme=slateorange&show_icons=true&count_private=true)
+
+<hr>
+
+### ⚠️Streak Stats
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faresemad&theme=slateorange)  
 
 <hr>
