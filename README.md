@@ -1,10 +1,29 @@
-![alt text](https://github.com/faresemad/faresemad/blob/main/headGit.png)
 ![Profile views](https://gpvc.arturio.dev/faresemad)
 [![Repos Badge](https://badges.pufler.dev/repos/faresemad)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/faresemad)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/faresemad)](https://badges.pufler.dev) 
-<hr>
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+```python
+ # It's my simple lifetime
+from time import sleep
+from random import choice
+def myLife(fares):
+    while fares in myLife:
+        try:
+            food=["Meat" "Fish" "Chicken"]
+            myFood choice(food)
+            fares.wakeup()
+            sleep(2500)
+            fares.eat (eat=myFood)
+            sleep(2500)
+            fares.coffee(type=Brazilian_coffee, suger=3)
+            if suger in fares.coffee:
+                fares.moveToWorking ( )
+            else:
+                break
+        except myLife as day:
+            return day
+```
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">Skills & Tools:
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='Python' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='C#' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='JavaScript' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='HTML%' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='CSS' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='NodeJs' height='40'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='Docker' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg' alt='Sqlite' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='MySql' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg' alt='BashScript' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='Linux' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='Git' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='VsCode' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudio.svg' alt='Visual Studio' height='40'>
 
