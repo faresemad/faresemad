@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```python
- # It's my simple lifetime
+# It's my simple lifetime
 from time import sleep
 from random import choice
 def myLife(fares):
