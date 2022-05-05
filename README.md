@@ -34,8 +34,7 @@ def myLife(fares):
 
 <hr>
 
-### ⚠️Account statistics & 🤖Most Used Languages:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=faresemad&theme=slateorange&show_icons=true&count_private=true)
+### 🤖Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faresemad&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
