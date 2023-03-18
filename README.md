@@ -33,19 +33,6 @@ def myLife(fares):
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/faresemadx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faresemadx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faresemad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faresemad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16395102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16395102" height="30" width="40" /></a>
-<a href="https://fb.com/faresemadx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faresemadx" height="30" width="40" /></a>
-<a href="https://instagram.com/faresemadx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faresemadx" height="30" width="40" /></a>
-<a href="https://medium.com/@faresemadx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faresemadx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/faresemadx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="faresemadx" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/faresemadx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faresemadx" height="30" width="40" /></a>
-</p>
-
-<hr>
 
 ### 🤖Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faresemad&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
