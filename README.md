@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0B6115FF&size=40&center=true&vCenter=true&width=1000&lines=Welcome;My+name+is+Fares+Emad;I'm+studying+Backend;I+am+using+Django+framework)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Everyone;My+name+is+Fares+Emad+.;I+am+a+Software+Developer+.;and+my+interests+include+%5BPython+%2C+Django+%2C+Rest+Framework%5D" alt="Typing SVG" /></a>
 
 ```python
 from rest_framework.decorators import api_view
