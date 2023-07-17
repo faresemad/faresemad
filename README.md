@@ -1,4 +1,11 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Everyone;My+name+is+Fares+Emad+.;I+am+a+Software+Developer+.;and+my+interests+include+%5BPython+%2C+Django+%2C+Rest+Framework%5D" alt="Typing SVG" /></a>
+[![Account: LinkedIn](https://img.shields.io/badge/Fares%20Emad-LinkedIn-0077b5)](https://www.linkedin.com/in/faresemad/)
+[![Account: Facebook](https://img.shields.io/badge/Fares%20Emad-Facebook-3B5998)](https://www.facebook.com/faresemadx)
+[![Account: Twitter](https://img.shields.io/badge/Fares%20Emad-Twitter-0084b4)](https://twitter.com/faresemadx)
+[![Account: Instagram](https://img.shields.io/badge/Fares%20Emad-Instagram-966842)](https://www.instagram.com/faresemadx/)
+[![Account: GitHub](https://img.shields.io/badge/Fares%20Emad-GitHub-2b3137)](https://www.github.com/faresemad/)
+[![Account: Resume](https://img.shields.io/badge/Download-CV-6b3237)](https://github.com/faresemad/faresemad/blob/main/cv.pdf)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Everyone;My+name+is+Fares+Emad+.;I+am+a+Software+Developer+.;and+my+interests+include+%5BPython+%2C+Django+%2C+Rest+Framework%5D" alt="Typing SVG" /></a>
 
 ```python
 from rest_framework.decorators import api_view
